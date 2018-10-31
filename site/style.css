@@ -1,0 +1,226 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+
+header {
+  background: #39424E;
+  height: 100vh;
+  color: #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  background: #39424E;
+  color: #ccc;
+  font-size: 1.2rem;
+}
+
+footer p {
+  padding: 3rem;
+  text-align: center;
+}
+
+footer p a {
+  color: inherit;
+  text-decoration: none;
+}
+
+footer p a:hover {
+  color: #DA784D
+}
+
+header pre {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+header .title .slogan {
+    font-size: 2.9rem;
+    letter-spacing: 2px;
+}
+
+header .title {
+    text-align: center;
+}
+
+header .cursor {
+    animation: 1s blink step-end infinite;
+}
+
+header .started {
+    display: inline-block;
+    padding: 15px;
+    margin-top: 2rem;
+    color: #ccc;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+
+header .started:hover {
+  color: #DA784D;
+}
+
+main {
+  background: #f7f7f7;
+}
+
+.container {
+  max-width: 44rem;
+  padding: 2rem;
+  margin: auto;
+  text-align: center;
+}
+
+.container h2 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+.container pre {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  padding: 16px;
+  background-color: #fff;
+  font-size: 1.5rem;
+  line-height: 1.45;
+  overflow: auto;
+  word-wrap: normal;
+  font-family: inherit;
+  text-align: left;
+}
+
+.container pre code {
+  font-family: inherit;
+}
+
+.container img {
+  width: 100%;
+}
+
+.container .rows {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.container .bullet, .scatter {
+  margin-top: 2rem;
+}
+
+.container .gauge img {
+  width: 50%;
+  height: 50%;
+}
+
+.container p {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  text-align: left;
+}
+
+.container p a {
+  color: inherit;
+}
+
+.container p a:hover {
+  color: #DA784D;
+}
+
+@keyframes blink {
+
+    from,
+    to {
+        color: transparent
+    }
+
+    50% {
+        color: #ccc
+    }
+}
+
+.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+
+    0%,
+    100% {
+        transform: rotate(0)
+    }
+
+    20%,
+    60% {
+        transform: rotate(-25deg)
+    }
+
+    40%,
+    80% {
+        transform: rotate(10deg)
+    }
+}
+
+@media (max-width:500px) {
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
+}
+
+.hljs-comment,.hljs-quote {
+    color: #8e908c
+}
+
+.hljs-variable,.hljs-template-variable,.hljs-tag,.hljs-name,.hljs-selector-id,.hljs-selector-class,.hljs-regexp,.hljs-deletion {
+    color: #c82829
+}
+
+.hljs-number,.hljs-built_in,.hljs-builtin-name,.hljs-literal,.hljs-type,.hljs-params,.hljs-meta,.hljs-link {
+    color: #f5871f
+}
+
+.hljs-attribute {
+    color: #eab700
+}
+
+.hljs-string,.hljs-symbol,.hljs-bullet,.hljs-addition {
+    color: #718c00
+}
+
+.hljs-title,.hljs-section {
+    color: #4271ae
+}
+
+.hljs-keyword,.hljs-selector-tag {
+    color: #8959a8
+}
+
+.hljs {
+    display: block;
+    overflow-x: auto;
+    background: white;
+    color: #4d4d4c;
+    padding: 0.5em
+}
+
+.hljs-emphasis {
+    font-style: italic
+}
+
+.hljs-strong {
+    font-weight: bold
+}

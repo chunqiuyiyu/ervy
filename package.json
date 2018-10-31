@@ -1,0 +1,33 @@
+{
+  "name": "ervy",
+  "version": "1.0.0",
+  "description": "Bring charts to terminal.",
+  "keywords": [
+    "cli",
+    "terminal",
+    "console",
+    "ascii",
+    "chart",
+    "data-visualization"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "lint": "standard",
+    "fix": "standard --fix"
+  },
+  "author": "chunqiuyiyu <chunqiuyiyu@outlook.com> (https://www.chunqiuyiyu.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunqiuyiyu/ervy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chunqiuyiyu/ervy/issues"
+  },
+  "homepage": "https://github.com/chunqiuyiyu/ervy#readme"
+}
