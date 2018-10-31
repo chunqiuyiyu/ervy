@@ -1,4 +1,4 @@
-```shell
+```
 ___________                    
 \_   _____/_________  _____.__.
  |    __)_\_  __ \  \/ <   |  |
@@ -33,7 +33,7 @@ There is no special reason, just because I love terminal and ASCII art. It's ver
 ![](/site/imgs/donut.png)
 
 ### Gauge
-![](/site/imgs/Gauge.png)
+![](/site/imgs/gauge.png)
 
 ### Scatter
 ![](/site/imgs/scatter.png)
