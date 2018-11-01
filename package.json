@@ -1,6 +1,6 @@
 {
   "name": "ervy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bring charts to terminal.",
   "keywords": [
     "cli",
