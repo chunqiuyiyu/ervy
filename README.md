@@ -9,6 +9,7 @@ ___________
 [![Travis (.org)](https://img.shields.io/travis/chunqiuyiyu/ervy.svg?style=flat-square)](https://travis-ci.org/chunqiuyiyu/ervy)
 ![GitHub](https://img.shields.io/github/license/chunqiuyiyu/ervy.svg?style=flat-square)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
+[![Install Size](https://flat.badgen.net/packagephobia/install/ervy)](https://packagephobia.now.sh/result?p=ervy)
 
 > Bring charts to terminal.
 
