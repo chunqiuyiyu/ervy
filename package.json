@@ -29,5 +29,6 @@
   "bugs": {
     "url": "https://github.com/chunqiuyiyu/ervy/issues"
   },
-  "homepage": "https://github.com/chunqiuyiyu/ervy#readme"
+  "homepage": "https://github.com/chunqiuyiyu/ervy#readme",
+  "files": ["index.js", "lib"]
 }
