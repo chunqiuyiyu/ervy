@@ -27,7 +27,7 @@ There is no special reason, just because I love terminal and ASCII art. It's ver
 ### Pie
 ![](/site/imgs/pie.png)
 
-### bullet
+### Bullet
 ![](/site/imgs/bullet.png)
 
 ### Donut
@@ -59,7 +59,7 @@ Supported color: black, red, green, yellow, blue, magenta, cyan and white.
 Use [demo](/demo/index.js) to understand how to combine APIs in actual code.
 
 ## Documents
-Come soon...
+Coming soon...
 
 ## License
 [MIT](./LICENSE)
