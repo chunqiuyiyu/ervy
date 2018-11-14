@@ -10,7 +10,10 @@
     "chart",
     "data-visualization"
   ],
-  "files": ["index.js", "lib"],
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "engines": {
     "node": ">=8"
   },
