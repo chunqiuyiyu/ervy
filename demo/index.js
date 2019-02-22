@@ -13,7 +13,8 @@ const barData = [
   { key: 'C', value: 11 },
   { key: 'D', value: 1, style: bg('red') },
   { key: 'E', value: 5, style: bg('green') },
-  { key: 'F', value: 7, style: bg('blue'), padding: 1 }
+  { key: 'F', value: 7, style: bg('blue'), padding: 1 },
+  { key: 'G', value: 0, style: bg('yellow') }
 ]
 
 console.log(bar(barData))
