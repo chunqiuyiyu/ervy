@@ -84,7 +84,7 @@ for (let i = 1; i < 17; i++) {
     : scatterData.push({ key: 'A', value: [i, 6], style: fg('red', '*') })
 }
 
-scatterData.push({ key: 'B', value: [2, 6], style: fg('blue', '# '), side: 2 })
+scatterData.push({ key: 'B', value: [2, 6], style: fg('blue', '# '), sides: [2, 2] })
 scatterData.push({ key: 'C', value: [6, 9], style: bg('cyan', 2) })
 
-console.log(scatter(scatterData, { legendGap: 18, width: 15 }))
+console.log(scatter(scatterData, { legendGap: 18, width: 15, left: 10 }))
