@@ -15,7 +15,7 @@ ___________
 
 ## Preview
 
-[Ervy site](https://www.chunqiuyiyu.com/ervy)
+[Live Demo](https://codepen.io/jcubic/pen/gObPBdP?editors=0010)(powered by [jQuery Terminal Emulator](https://terminal.jcubic.pl/))
 
 ## Why build this
 There is no special reason, just because I love terminal and ASCII art. It's very cool! Hope you enjoy Ervy and make your terminal more beautiful.
@@ -60,6 +60,10 @@ Use [demo](/demo/index.js) to understand how to combine APIs in actual code.
 
 ## Documents
 Coming soon...
+
+## Credits
+
+[@jcubic](https://github.com/jcubic)
 
 ## License
 [MIT](./LICENSE)
