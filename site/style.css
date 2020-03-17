@@ -81,6 +81,10 @@ main {
   text-align: center;
 }
 
+#term {
+  text-align: left;
+}
+
 .container h2 {
   font-size: 3rem;
   margin-bottom: 2rem;
