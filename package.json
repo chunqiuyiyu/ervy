@@ -22,6 +22,11 @@
     "fix": "standard --fix",
     "build": "browserify index.js -o site/js/ervy.js --standalone ervy"
   },
+  "standard": {
+    "ignore": [
+      "site"
+    ]
+  },
   "author": "chunqiuyiyu <chunqiuyiyu@outlook.com> (https://www.chunqiuyiyu.com/)",
   "license": "MIT",
   "devDependencies": {
