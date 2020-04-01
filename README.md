@@ -15,7 +15,7 @@ ___________
 
 ## Preview
 
-[Live Demo](https://codepen.io/jcubic/pen/gObPBdP?editors=0010)(powered by [jQuery Terminal Emulator](https://terminal.jcubic.pl/))
+[Live Demo](https://www.chunqiuyiyu.com/ervy#demo)(powered by [jQuery Terminal Emulator](https://terminal.jcubic.pl/))
 
 ## Why build this
 There is no special reason, just because I love terminal and ASCII art. It's very cool! Hope you enjoy Ervy and make your terminal more beautiful.
