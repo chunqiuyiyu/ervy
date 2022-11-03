@@ -11,7 +11,7 @@ ___________
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
 [![Install Size](https://flat.badgen.net/packagephobia/install/ervy)](https://packagephobia.now.sh/result?p=ervy)
 
-> Bring charts to terminal.
+> Bring charts to terminal
 
 ## Preview
 
@@ -57,9 +57,6 @@ ervy.bg(color, [length])
 Supported color: black, red, green, yellow, blue, magenta, cyan and white.
 
 Use [demo](/demo/index.js) to understand how to combine APIs in actual code.
-
-## Documents
-Coming soon...
 
 ## Credits
 
