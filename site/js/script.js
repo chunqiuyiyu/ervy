@@ -143,6 +143,7 @@ var term = $('#term').terminal(commands, {
     name: 'charts',
     height: 500,
     completion: true,
+    enabled: false,
     checkArity: false,
     greetings: `
 ___________
